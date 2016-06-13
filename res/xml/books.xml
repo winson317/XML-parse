@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book price="99.0"  日期="2008年">android开发</book>
+    <book price="109.0" 日期="2009年">高级android开发</book>
+    <book price="58.0"  日期="2006年">android开发入门</book>
+</books>
